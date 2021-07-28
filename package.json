@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanceinc/app-ip_address.git"
+    "url": "git+https://github.com/acrosier/app-ip_address.git"
   },
   "author": "ACME",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/vanceinc/app-ip_address/issues"
+    "url": "https://github.com/acrosier/app-ip_address/issues"
   },
-  "homepage": "https://github.com/vanceinc/app-ip_address#readme",
+  "homepage": "https://github.com/acrosier/app-ip_address#readme",
   "dependencies": {
     "ip-cidr": "^2.1.4"
   }
