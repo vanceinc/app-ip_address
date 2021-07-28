@@ -44,7 +44,7 @@ class IpAddress {
     // under Documentation -> Developer Guides -> Log Class Guide
     log.info('Starting the IpAddress product.');
   }
-
+}
 getFirstIpAddress(cidrStr, callback) {
   
   // Initialize return arguments for callback
@@ -55,7 +55,7 @@ getFirstIpAddress(cidrStr, callback) {
 
   // Instantiate an object from the imported class and assign the instance to variable cidr.
   const cidr = new IPCIDR(cidrStr);
-
+}
   // Initialize options for the toArray() method.
   // We want an offset of one and a limit of one.
   // This returns an array with a single element, the first host address from the subnet.
